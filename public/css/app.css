@@ -1,0 +1,102 @@
+
+
+#app-layout{
+	background-image: url('../imgs/bg-image.jpg'); 
+}
+
+
+/**
+Standard colours
+
+	dark grey = 333333, / 51,51,51
+	beige = CE9F75 / 206, 159, 117
+	light = D1D1C7 / 209, 209, 199
+
+
+
+**/
+
+/************Home Page**************/
+
+.home-panel{
+		margin: auto;
+		opacity: 0.5;
+}
+
+.home-panel, h1{
+	opacity: 1.0;
+	color: rgb(51,51,51);
+
+	margin: auto;
+}
+
+.global-center{
+    position: absolute;
+    right: 50%;
+    width: 300px;
+    border: 0px;
+    padding: 10px;
+}
+
+
+
+
+/**************Account Home Page*****************/
+
+
+.account-panel{
+	margin: auto;
+	background-color: rgba(206, 159, 117,0.5);
+	
+}
+
+.account-panel,h3{
+	padding: 5px;
+	margin: auto;
+	color: rgba(255,255,255,1.0);
+	
+}
+
+.account-panel,p{
+	padding: 5px;
+	margin: auto;
+	color: rgba(255,255,255,1.0);
+
+}
+
+/*********Show Lists User Page ********/
+
+.show-lists{
+	background-color: rgba(209, 209, 199,0.5);
+	
+}
+
+.show-lists, h1{
+	padding: 8px 4px 8px 4px;
+
+}
+
+.show-lists-a{
+	padding: 8px 4px 8px 4px;
+}
+
+.list-table{
+	background-color: white;
+}
+
+.table-td{
+	padding: 8px 2px 8px 2px;
+}
+
+.del-btn{
+	padding: 2px 2px 2px 2px;
+}
+
+/*********Show Lists User Page ********/
+
+.show-items{
+	background-color: rgba(209, 209, 199,0.5);
+	
+}
+
+
