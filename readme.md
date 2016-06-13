@@ -3,6 +3,14 @@ LaravelListsApp
 
 A Laravel Based list making and note taking . Create a list, Add items to them, then delete when your done.
 
+This application uses a MySQL Database layer and has migration classes.
+
+This application Currently has no Seeding data.
+
+Project is on going.
+
+MK
+
 
 **********************************************************
 
